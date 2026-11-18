@@ -5,7 +5,8 @@
 ## 项目列表
 
 - [FM收音机设计与制作](./fm-radio) — 基于STC89C52单片机，独立完成原理图、PCB打样、焊接与调试
-- [AI桌面机器人](./desktop-robot) — 基于ESP32-S3的对话式AI机器人
+- [AI桌面机器人](./desktop-robot) — 基于ESP32-S3的对话式AI机器人，含原理图、PCB、实物照片与演示视频
+- [指天椒病虫害 AI 识别系统](./chili-detection) — YOLOv11 双模型识别 + 离线语音播报，mAP@0.5 = 0.953
 
 ## 联系方式
 
